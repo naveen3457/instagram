@@ -1,0 +1,54 @@
+.nav-container
+{
+    
+    width: 20%;
+    height: 100vh;
+    position: fixed;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+.nav-logo
+{
+    width: 17rem;
+    height: 7rem;
+}
+.nav-list
+{
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    flex-direction: column;
+    gap: 2rem;
+}
+.nav-items
+{
+    width: 100%;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    gap: 1.5rem;
+    border-bottom: 1px solid rgba(175, 169, 169, 0.614);
+    padding:0.5rem 2rem;
+    
+}
+.nav-item-logo
+{
+    font-size: 1.5rem;
+}
+.nav-item-text
+{
+    font-size: 1.1rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
